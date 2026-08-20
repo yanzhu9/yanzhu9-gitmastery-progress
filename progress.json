@@ -176,5 +176,14 @@
       "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787196187.218721,
+    "completed_at": 1787196188.991344,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
